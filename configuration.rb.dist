@@ -1,0 +1,6 @@
+
+
+@octoprint_url="http://localhost:5000/"
+@octoprint_api_key=""
+ServerURL="https://user:pass@printfarm_controller_url"
+
